@@ -1,0 +1,236 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+header{
+    background-color: #fcdb00;
+    padding: 10px 0;
+}
+
+
+.menu ul li a {
+
+      padding: 0 40px !important;
+      font-size:22px ;
+      font-weight:700 ;
+      color:#010101 !important ;
+      transition: 0.3s;
+
+}
+
+.menu ul li:last-child a {
+    padding-right: 0px !important;
+}
+
+
+.menu ul li a:hover {
+
+    color: white !important;       
+}
+
+/*...slider start...*/
+
+    .slider{
+
+        padding-bottom: 100px;
+        background-color: #fcdb00;
+
+    }
+
+
+    .s_content{
+
+        margin-top: 70px;
+    }
+    .s_content h1{
+        margin: 0;
+        font-size: 32px;
+        font-weight: 700;
+        color: #010101;
+    }
+    .s_content h2{
+        
+        margin: 20px 0;
+        font-size: 20px;
+        font-weight: 400;
+        color: #313841;
+        word-spacing: 1px;
+        letter-spacing: 1px;
+
+    }
+    .s_content p{
+        margin-bottom: 30px;
+        color: #555555;
+        word-spacing: 1px;
+    }
+    .s_icon{
+
+        font-size: 42px;
+        color: #010101; 
+    }
+
+    .s_icon li{
+
+       margin-right: 30px !important;
+    }
+    
+    .s_img{}
+    .s_img img{}
+
+
+    .c_ci {
+
+    bottom: -80px ;
+   
+}
+
+
+.c_ci li {
+   
+    width: 15px;
+    height: 15px;
+    border-radius: 50%; 
+  /* */
+     
+}
+
+.c_ci.active {
+    /*opacity: 1;*/
+}
+
+
+/*...slider End...*/
+
+
+/*...Service Start...*/
+
+.service{
+
+    padding: 100px 0 80px;
+}
+
+.title{
+    margin-bottom: 70px;
+}
+
+.title_header{
+
+    margin: 0 0 20px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+
+
+.title_para{
+
+    margin:0px;
+    font-size: 20px;
+    color: #313841;
+    word-spacing: 1.5px;
+    line-height: 25px;
+    
+}
+
+
+.singleItem{
+
+    margin-bottom: 50px;
+
+}
+
+.service_icoc{
+        
+        font-size:50px ;
+        color:#010101 ;
+}
+
+.service_text{
+
+    margin-top: 10px;
+
+
+}
+
+.service_text h2{
+
+    font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+
+}
+
+
+.service_text p{
+
+    color:#898989 ;
+    margin-bottom: 0;
+
+}
+
+
+/*...Service End...*/
+
+
+
+/*...contact Start...*/
+.contact{
+    padding: 100px 0 130px;
+    background-color:#010101 ;
+}
+.yellow{
+       color: #fcdb00;
+}
+.ash{
+    color:#898989;
+}
+.form_class{
+    margin-bottom: 70px;
+    margin-left: 30px;
+}
+.form_class input{
+   font-family: 'PT Sans', sans-serif;
+   color:#898989 ;
+   width:100%;
+   height: 48px;     
+}
+.form_class button{
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+   font-weight: 700;
+   color:010101 ; 
+   width: 120px;
+   height: 45px; 
+   background-color:#fcdb00;
+   transition: 0.3s linear;
+   -webkit-transition: 0.3s linear;
+   -moz-transition: 0.3s linear;
+
+
+   
+} 
+.form_class button:hover{
+   background-color: white;        
+}        
+
+
+/*...contacr End...*/
+
+.fb{
+    margin-right: 10px;
+    font-size: 42px;
+    color:#fcdb00 ;
+
+}
+
+
+
+
+
+
+
+
+
+
